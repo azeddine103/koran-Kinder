@@ -93,7 +93,7 @@ self.addEventListener('fetch', event => {
           caches.open(CACHE).then(c => c.put(event.request, res.clone()));
         }
         return res;
-      }).catch(() => caches.match('./juz-amma-kinder.html'));
+      }).catch(() => caches.match('./index.html'));
     })
   );
 });
