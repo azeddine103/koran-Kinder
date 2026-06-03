@@ -4,7 +4,7 @@ const AUDIO = 'juz-amma-audio-v2';
 
 // Files to cache immediately on install (app shell)
 const SHELL = [
-  './juz-amma-kinder.html',
+  './index.html',
   './juz-amma-manifest.json',
   './juz-amma-icon-192.png',
   './juz-amma-icon-512.png',
