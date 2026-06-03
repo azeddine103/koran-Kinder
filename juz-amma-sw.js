@@ -3,7 +3,7 @@ const CACHE = 'juz-amma-v1';
 const AUDIO_CACHE = 'juz-amma-audio-v1';
 
 const STATIC = [
-  './juz-amma-kinder.html',
+  './index.html',
   'https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700;800&family=Amiri:wght@400;700&display=swap',
   'https://fonts.gstatic.com/s/baloo2/v21/wXK0E3kTposypRyd11_WAewrhR8.woff2',
   'https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHpUrtLYQ6w.woff2',
