@@ -2,7 +2,7 @@
   "name": "Juz Amma – Auswendig Lernen",
   "short_name": "Juz Amma",
   "description": "Kinder lernen Juz Amma – Sure 78 bis 114 – auswendig",
-  "start_url": "./juz-amma-kinder.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#1e5e42",
