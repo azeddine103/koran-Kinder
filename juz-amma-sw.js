@@ -4,7 +4,7 @@ const BASE_AUDIO = 'https://cdn.islamic.network/quran/audio/128/ar.shaatree/';
 
 // App shell files
 const SHELL = [
-  './juz-amma-kinder.html',
+  './index.html',
   './juz-amma-manifest.json',
   './juz-amma-icon-192.png',
   './juz-amma-icon-512.png',
