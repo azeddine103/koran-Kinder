@@ -1,0 +1,23 @@
+{
+  "name": "Juz Amma – Auswendig Lernen",
+  "short_name": "Juz Amma",
+  "description": "Kinder lernen Juz Amma – Sure 78 bis 114 – auswendig",
+  "start_url": "./juz-amma-kinder.html",
+  "display": "standalone",
+  "background_color": "#f5fbff",
+  "theme_color": "#1e6e4a",
+  "orientation": "portrait-primary",
+  "lang": "de",
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMWU2ZTRhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFhM2E2YiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic3RhciIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZmQ2MGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZmI4NTAwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjExMCIgZmlsbD0idXJsKCNiZykiLz4KICA8IS0tIFN0YXJzIGRlY29yYXRpb24gLS0+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSI4MCIgcj0iMTIiIGZpbGw9IiNmZmQ2MGEiIG9wYWNpdHk9Ii41Ii8+CiAgPGNpcmNsZSBjeD0iNDMyIiBjeT0iODAiIHI9IjgiIGZpbGw9IiNmZmQ2MGEiIG9wYWNpdHk9Ii40Ii8+CiAgPGNpcmNsZSBjeD0iNDMyIiBjeT0iNDMyIiByPSIxMiIgZmlsbD0iI2ZmZDYwYSIgb3BhY2l0eT0iLjM1Ii8+CiAgPGNpcmNsZSBjeD0iODAiIGN5PSI0MzIiIHI9IjgiIGZpbGw9IiNmZmQ2MGEiIG9wYWNpdHk9Ii40Ii8+CiAgPCEtLSBNYWluIHN0YXIgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSIyNTYsMTEwIDI4NSwxOTUgMzc1LDE5NSAzMDQsMjQ4IDMzMCwzMzUgMjU2LDI4MiAxODIsMzM1IDIwOCwyNDggMTM3LDE5NSAyMjcsMTk1IgogICAgZmlsbD0idXJsKCNzdGFyKSIgb3BhY2l0eT0iLjk1Ii8+CiAgPCEtLSBBcmFiaWMgdGV4dCDYudmF2ZEgLS0+CiAgPHRleHQgeD0iMjU2IiB5PSI0MzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzMCIgZm9udC13ZWlnaHQ9ImJvbGQiCiAgICBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgb3BhY2l0eT0iLjkyIj4mI3g2Mzk7JiN4NjQ1OyYjeDY1MTs8L3RleHQ+Cjwvc3ZnPg==",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
