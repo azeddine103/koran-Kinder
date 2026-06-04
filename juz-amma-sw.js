@@ -3,7 +3,7 @@ const CACHE = 'juz-amma-v3';
 const AUDIO = 'juz-amma-audio-v3';
 
 const SHELL = [
-  './juz-amma-kinder.html',
+  './index.html',
   './juz-amma-manifest.json',
   './juz-amma-icon-192.png',
   './juz-amma-icon-512.png',
@@ -61,7 +61,7 @@ self.addEventListener('fetch', event => {
           caches.open(CACHE).then(c => c.put(event.request, clone));
         }
         return res;
-      }).catch(() => caches.match('./juz-amma-kinder.html'));
+      }).catch(() => caches.match('./index.html'));
     })
   );
 });
